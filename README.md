@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bmorris3/abc_interact/master?filepath=abc_interact.ipynb)
 
-A simple, interactive Markov Chain Monte Carlo introduction in Python.
+A simple, interactive Approximate Bayesian Computation tutorial introduction in Python.
 
 ## Getting started via Binder
 
